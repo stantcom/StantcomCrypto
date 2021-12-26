@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771515424866",
+    "project_id": "stantcomcrypto",
+    "storage_bucket": "stantcomcrypto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771515424866:android:0911e83c4f422b41dbb13b",
+        "android_client_info": {
+          "package_name": "com.example.stantcomcrypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771515424866-pbg8qbvrirretlmvc9f3hij2bnlte8rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU7klOfYdYt5K-WdRbYTLbxGHAuDp2D_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771515424866-pbg8qbvrirretlmvc9f3hij2bnlte8rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
